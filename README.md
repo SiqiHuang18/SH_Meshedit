@@ -12,10 +12,10 @@
 ### Triangulate
 <img src="output/Triangulate_b.png" width="350px"/> <img src="output/Triangulate_a.png" width="350px"/>
 ### Catmull-Clark Subdivision
-<img src="output/Catmull_1.png" width="300px"/> <img src="output/Catmull_2.png" width="300px"/> <img src="output/Catmull_3.png" width="300px"/>
+<img src="output/Catmull_1.png" width="350px"/> <img src="output/Catmull_2.png" width="350px"/> <img src="output/Catmull_3.png" width="350px"/>
 ### Linear Subdivision
-<img src="output/Linear_1.png" width="300px"/> <img src="output/Linear_2.png" width="300px"/> <img src="output/Linear_3.png" width="300px"/>
+<img src="output/Linear_1.png" width="350px"/> <img src="output/Linear_2.png" width="350px"/> <img src="output/Linear_3.png" width="350px"/>
 ### Loop Subdivision
-<img src="output/Loop_1.png" width="300px"/> <img src="output/Loop_2.png" width="300px"/> <img src="output/Loop_3.png" width="300px"/>
+<img src="output/Loop_1.png" width="350px"/> <img src="output/Loop_2.png" width="350px"/> <img src="output/Loop_3.png" width="350px"/>
 ### Simplification Using Quadratic Error
 ### Isotropic Remeshing
