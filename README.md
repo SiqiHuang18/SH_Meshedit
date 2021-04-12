@@ -1,4 +1,6 @@
 # SH_Meshedit
+This project implements various mesh processing algorithm using Half Edge Mesh data structure. This data structure allows easy traversal and modification of edge.
+
 ## Local Operations
 ### Edge Flip
 <img src="output/flip_b.png" width="350px"/> <img src="output/flip_a.png" width="350px"/>
