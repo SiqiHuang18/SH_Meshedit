@@ -2,36 +2,26 @@
 
 You can use the [editor on GitHub](https://github.com/SiqiHuang18/SH_Meshedit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# SH_Meshedit
+This project implements various mesh processing algorithm using Half Edge Mesh data structure. This data structure allows easy traversal and modification of edge.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SiqiHuang18/SH_Meshedit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Local Operations
+### Edge Flip
+<img src="output/flip_b.png" width="350px"/> <img src="output/flip_a.png" width="350px"/>
+### Edge Split
+<img src="output/split_b.png" width="350px"/> <img src="output/split_a.png" width="350px"/>
+### Edge Collapse
+<img src="output/Collapse_e_b.png" width="350px"/> <img src="output/Collapse_e_a.png" width="350px"/>
+### Erase Vertex
+<img src="output/Erase_v_b.png" width="350px"/> <img src="output/Erase_v_a.png" width="350px"/>
+## Global Operations
+### Triangulate
+<img src="output/Triangulate_b.png" width="350px"/> <img src="output/Triangulate_a.png" width="350px"/>
+### Catmull-Clark Subdivision
+<img src="output/Catmull_1.png" width="350px"/> <img src="output/Catmull_2.png" width="350px"/> <img src="output/Catmull_3.png" width="350px"/>
+### Linear Subdivision
+<img src="output/Linear_1.png" width="350px"/> <img src="output/Linear_2.png" width="350px"/> <img src="output/Linear_3.png" width="350px"/>
+### Loop Subdivision
+<img src="output/Loop_1.png" width="350px"/> <img src="output/Loop_2.png" width="350px"/> <img src="output/Loop_3.png" width="350px"/>
+### Simplification Using Quadratic Error
+### Isotropic Remeshing
